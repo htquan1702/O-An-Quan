@@ -1,6 +1,6 @@
 Ô Ăn Quan by OAQ
 
-Trò chơi Ô ăn quan sử dụng thư viện Graphics in Dev C++ 
+Trò chơi Ô ăn quan sử dụng thư viện graphic.h trong  Dev C++ 
 
 Được phát triển bởi 3 thành viên:
 
